@@ -617,6 +617,7 @@ eval localedir=$localedir
 eval sysconfdir=$sysconfdir
 eval pkgsysconfdir=$pkgsysconfdir
 eval piddir=$piddir
+eval logdir=$logdir
 
 #
 # Init scripts/files
